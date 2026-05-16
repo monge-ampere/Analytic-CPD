@@ -30,7 +30,7 @@ This design allows low-order analytic maps to stabilize early posterior correspo
 ## Representative Registration Examples
 
 <p align="center">
-  <img src="docs/figures/analytic_cpd_3d_human_registration.png" width="98%">
+  <img src="figures/analytic_cpd_3d_human_registration.png" width="98%">
 </p>
 
 **Figure.** Three-dimensional large-deformation registration examples using
