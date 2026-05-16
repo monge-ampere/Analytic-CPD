@@ -12,18 +12,6 @@ The current release focuses on the core algorithmic pipeline and selected reprod
 
 ---
 
-## Authors
-
-- Wei Feng  
-  College of Electronic Engineering, Ocean University of China  
-  Email: weifeng@stu.ouc.edu.cn
-
-- Haiyong Zheng  
-  College of Electronic Engineering, Ocean University of China  
-  Email: zhenghaiyong@ouc.edu.cn  
-
----
-
 ## Overview
 
 Standard non-rigid CPD estimates a point-indexed Gaussian-kernel displacement field. In contrast, Analytic-CPD estimates deformation in a finite-dimensional structured analytic function space. The deformation coefficient dimension is governed by the ambient dimension and analytic order rather than directly by the number of moving points.
