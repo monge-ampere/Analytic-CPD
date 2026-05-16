@@ -27,7 +27,19 @@ At each iteration, Analytic-CPD:
 This design allows low-order analytic maps to stabilize early posterior correspondences and higher-order modes to refine nonlinear residual deformation later.
 
 ---
+## Representative Registration Examples
 
+<p align="center">
+  <img src="docs/figures/analytic_cpd_3d_human_registration.png" width="98%">
+</p>
+
+**Figure.** Three-dimensional large-deformation registration examples using
+Analytic-CPD. Red points denote the fixed point set, and green points denote the
+moving/moved point set. The first two rows show controlled SHREC'19 human
+point-cloud cases, and the third row shows a registered MPI-FAUST human-motion
+case.
+
+---
 ## Project Structure
 
 The current Visual Studio implementation follows a three-layer architecture:
