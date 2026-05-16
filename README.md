@@ -21,7 +21,6 @@ The current release focuses on the core algorithmic pipeline and selected reprod
 - Haiyong Zheng  
   College of Electronic Engineering, Ocean University of China  
   Email: zhenghaiyong@ouc.edu.cn  
-  Corresponding author
 
 ---
 
