@@ -2,7 +2,7 @@
 
 This repository provides a C++ research prototype implementation of our paper:
 
-**"Analytic-CPD: Structured Analytic Coherent Point Drift for Non-Rigid Point Set Registration"**
+**"Structured Analytic Coherent Point Drift for Non-Rigid Point Set Registration"**
 
 Analytic-CPD is an unsupervised non-rigid point set registration framework that combines the Gaussian-mixture posterior correspondence mechanism of Coherent Point Drift (CPD) with Structured Analytic Mappings (SAM). The method preserves the probabilistic soft-correspondence layer of CPD, but replaces the point-indexed Gaussian-kernel displacement M-step with structured analytic mapping estimation.
 
