@@ -4,9 +4,24 @@ This repository provides a C++ research prototype implementation of our paper:
 
 **"Structured Analytic Coherent Point Drift for Non-Rigid Point Set Registration"**
 
+The proposed method is referred to as **Analytic-CPD**.
+
 Analytic-CPD is an unsupervised non-rigid point set registration framework that combines the Gaussian-mixture posterior correspondence mechanism of Coherent Point Drift (CPD) with Structured Analytic Mappings (SAM). The method preserves the probabilistic soft-correspondence layer of CPD, but replaces the point-indexed Gaussian-kernel displacement M-step with structured analytic mapping estimation.
 
 The current release focuses on the core algorithmic pipeline and selected reproducibility examples.
+
+---
+
+## Authors
+
+- Wei Feng  
+  College of Electronic Engineering, Ocean University of China  
+  Email: weifeng@stu.ouc.edu.cn
+
+- Haiyong Zheng  
+  College of Electronic Engineering, Ocean University of China  
+  Email: zhenghaiyong@ouc.edu.cn  
+  Corresponding author
 
 ---
 
@@ -232,11 +247,12 @@ Full reproduction of all experiments in the paper may require:
 If you use this code, please cite:
 
 ```bibtex
-@article{feng2026analyticcpd,
+@article{feng2026structuredanalyticcpd,
   title={Structured Analytic Coherent Point Drift for Non-Rigid Point Set Registration},
   author={Feng, Wei and Zheng, Haiyong},
-  journal={arXiv preprint},
-  year={2026}
+  journal={arXiv preprint arXiv:2605.00934},
+  year={2026},
+  doi={10.48550/arXiv.2605.00934}
 }
 ```
 Please also cite the related Structured Analytic Mappings paper if you use the SAM deformation model.
