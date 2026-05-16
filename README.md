@@ -233,8 +233,8 @@ If you use this code, please cite:
 
 ```bibtex
 @article{feng2026analyticcpd,
-  title={Analytic-CPD: Structured Analytic Coherent Point Drift for Non-Rigid Point Set Registration},
-  author={Feng, Wei and Wei, Tengda and Zheng, Haiyong},
+  title={Structured Analytic Coherent Point Drift for Non-Rigid Point Set Registration},
+  author={Feng, Wei and Zheng, Haiyong},
   journal={arXiv preprint},
   year={2026}
 }
